@@ -139,8 +139,7 @@ export default {
         loop: true,
         // 如果需要分页器
         pagination: {
-           el:'.swiper-pagination',
-           clickable:true
+           el:'.swiper-pagination'
         }
       })
     },
